@@ -1,0 +1,2 @@
+# word_vector_embed_for_keras
+word_vector_embed_for_keras
